@@ -86,7 +86,7 @@ The "Geo-distribution on Wazzuf Job Website" dashboard provides insights into Wa
 - Published the dashboard to Power BI Service.
 - Configured a gateway to the source file (`workfile.csv`) for scheduled daily refreshes.
 - **Next Refresh**: Configured for daily updates (e.g., 5/30/2025 at 00:00 AM).
-- **Web Link**: [Click here to view the dashboard](#) (replace with actual link).
+- **Web Link**: [Click here to view the dashboard]([#](https://app.powerbi.com/view?r=eyJrIjoiZDUyYmI4YjMtMDRkOS00NWE4LTg4OTgtODFkYTJkZGY0ZWNmIiwidCI6IjEzMmI2Y2RkLTM0YzktNDUxZS1hNjNjLWQwMGQ1ZmEyZjZhNyIsImMiOjl9))
 
 ## Usage
 This dashboard is ideal for HR professionals, job seekers, and market analysts to explore Wazzuf job trends interactively. The clean layout and filters make it easy to focus on specific job categories, locations, or time periods.
